@@ -14,7 +14,8 @@ public class LocalTime2 {
 		System.out.println(localdatetime.getDayOfMonth());
 		System.out.println(localdatetime.getHour());
 		System.out.println(localdatetime.getNano());
-		System.out.println(localdatetime.getSecond());
+		System.out.println(localdatetime.getSecond());  
+		
 		
 	}
 
